@@ -68,24 +68,6 @@ The visualization provides a graphical comparison of the model output and traffi
 - Regression
 - Data Visualization
 
-## Project Files
-
-```text
-metro-traffic-volume-regression/
-│
-├── metro_traffic_volume_regression.ipynb
-├── metro_traffic_regression.png
-└── README.md
-```
-
-### `metro_traffic_volume_regression.ipynb`
-
-Contains the complete data analysis and machine learning workflow.
-
-### `metro_traffic_regression.png`
-
-Visualization generated from the regression analysis.
-
 ## Machine Learning Task
 
 **Problem Type:** Regression
@@ -107,4 +89,3 @@ This project demonstrates practical experience with:
 - Data visualization
 - Jupyter Notebook development
 
-The project was developed for educational, demonstration, and portfolio purposes.
